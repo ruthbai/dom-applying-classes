@@ -29,6 +29,10 @@ div.pink {
   background-color: pink;
 }
 
+div.visible {
+  background-color: purple;
+}
+
 .invisible {
   display: none;
 }
